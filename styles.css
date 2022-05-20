@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(234,234,234);
+    margin: 0;
+}
+header{
+    background-color: white;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+header h1{
+    margin: 0;
+}
+div.post{
+    
+    background-color: white;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+div.feed{
+    width: 600px;
+    margin: auto;
+}
+
+
+#first-part{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 9px;
+    padding-left: 9px;
+}
+
+#first-part #numbers{
+    color: gray;
+    opacity: 90%;
+    
+
+}
+#second-part img{
+    width: 100%;
+}
+
+#third-part{
+    padding: 10px;
+}
